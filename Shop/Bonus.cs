@@ -87,7 +87,7 @@ namespace Shop
             this.bonusprice = bonusprice;
         }
 
-        public int GetBonusPrice(int number)
+        public int GetBonusPrice()
         {
             return this.bonusprice;
         }
